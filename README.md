@@ -36,7 +36,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/DSTRACoin/diquidus explorer
+    git clone https://github.com/SerafV1/explorer_with_masternodes_crex24_graviex explorer
 
 ### Install node modules
 
